@@ -1,2 +1,2 @@
 // hi everyone
-// 2 commit
+// this is a js file type your javascript codes
